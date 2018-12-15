@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-
-	return 0;
+    cin.tie(0);
+    ios::sync_with_stdio(false);
 }
